@@ -131,7 +131,7 @@ Taskqora/
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/Taskqora.git
+git clone https://github.com/Murali2034/Taskqora.git
 cd Taskqora
 ```
 
@@ -176,9 +176,9 @@ http://localhost:8080
 
 ## Author
 
-**Battu Naga Roopini**
+**Namburu Murali Mohan**
 
-* BTech IT Student
+* BTech AI&DS Student
 * Full Stack Developer
 * Java | Spring Boot | MySQL | Web Development
 
